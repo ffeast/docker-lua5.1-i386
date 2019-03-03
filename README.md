@@ -7,7 +7,7 @@ lua5.1-32bit Dockerfile
 
 ## Get this image
 
-you can execute following command to get this docker image :
+You can execute following command to get this docker image :
 ```
 docker pull ffeast/docker-lua5.1-i386
 ```
