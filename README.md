@@ -1,4 +1,4 @@
-lua5.1-32bit Dockerfile
+lua5.1 / Ubuntu (i386) Dockerfile
 -
 ## Includes
 1) `i386 Ubuntu 18.04.1 LTS`
